@@ -1,2 +1,5 @@
 # Ignorar directorio de node_modules en proyectos Node.js
 node_modules/
+
+/stack-mean-backend
+/stack-mean-frontend

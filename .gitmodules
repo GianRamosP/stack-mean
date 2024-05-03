@@ -1,6 +1,6 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/GianRamosP/stack-mean-backend
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/GianRamosP/stack-mean-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/GianRamosP/stack-mean-backend
